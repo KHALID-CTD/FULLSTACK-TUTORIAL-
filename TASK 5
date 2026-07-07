@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+        <title>
+            My first website
+        </title>
+    </head>
+    <body>
+        <img src="man.jpg" alt="khalid" width="200" height="200">
+      <h1> Hi, my name is khalid</h1>
+      <h2> Fun facts about me:</h2>
+      <ul>
+        <li> i am a graphic designer with 3 years of experience.</li>
+        <li> I have designed for multiple enterprises and brands.</li>
+        <li> I am passionate about creating innovative designs.</li>
+      </ul>
+      <a href="https://www.linkedin.com/in/khalid-graphic-designer" target="_blank">Connect with me on LinkedIn</a>
+      <input type="text" placeholder="Enter your email address">
+        <button>Join newsletter</button>
+    </body>
+
+</html>
