@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My first website
+        </title>
+    </head>
+    <body>
+       <h1> Beijing olympics</h1>
+       <ol>
+        <li> pizza<li>
+            <l1>berries</l1>
+            <li> Native Rice</li>
+           
+       </ol>
+    </body>
+</html>
