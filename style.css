@@ -1,34 +1,38 @@
-body{
-    margin: 0;
-color: #82a5ca;
-background-image: url('galaxy.webp');
-background-size: cover;
-text-align: center;
-font-weight: bold;
-font-size: xx-large;
-font-family: 'Orbitron', sans-serif;
-}
- 
-.btn{
-font-family: 'Orbitron', sans-serif;
-padding: 6px 12px;
-border: none;
-color: #82a5ca;
-font-weight: bold;
+body {
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
 
-.cta{
-    border-bottom: 4px solid white;
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-#logo{
-    width: 100px;
-    height: 100px;
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
-#hero{
-    background-image: url('galaxy.webp');
-background-size: cover;
-padding:10px 0 40px 0; 
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
 }
 
